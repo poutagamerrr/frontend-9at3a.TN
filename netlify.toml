@@ -1,4 +1,0 @@
-[[redirects]]
-    from = "/api/*"
-    to = "https://nineat3a.onrender.com"
-    status = 200
