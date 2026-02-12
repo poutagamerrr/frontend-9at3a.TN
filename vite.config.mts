@@ -5,9 +5,9 @@ export default defineConfig({
   plugins: [react()],
   server: {
     port: 3000,
-    proxy: {
-      '/api': 'https://nineat3a.onrender.com',
-    },
+    // proxy: {
+    //   '/api': 'https://nineat3a.onrender.com',
+    // },
   },
 });
 
